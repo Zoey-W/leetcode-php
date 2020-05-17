@@ -1,16 +1,16 @@
-### Question
+## Question
 ```
 we have two numbers
 each one
 ```
 
-### Keyword
+## Keyword
 ***`sort`***  ***`array`***
 
-### Solution
+## Solution
 we use a
 
-### Code
+## Code
 ```php
 /*my first one*/
 <?php
