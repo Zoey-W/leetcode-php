@@ -1,15 +1,17 @@
-###Question
-***
->we have two numbers
-###Keyword
-***
+### Question
+---
+> we have two numbers
+> each one
+### Keyword
+---
 ***`sort`***  ***`array`***
-###Solution
-***
+### Solution
+---
 we use a
-###Code
-***
+### Code
+---
 ```php
+/*my first one*/
 <?php
 echo 'Hello World!';
 ?>
