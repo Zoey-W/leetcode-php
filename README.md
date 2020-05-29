@@ -1,19 +1,5 @@
-## Question
-```
-we have two numbers
-each one
-```
+### Data Structure
 
-## Keyword
-***`sort`***  ***`array`***
+#### Array
 
-## Solution
-we use a
-
-## Code
-```php
-/*my first one*/
-<?php
-echo 'Hello World!';
-?>
-```
+- [169.MajorityElement](./169.MajorityElement.md)
