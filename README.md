@@ -4,6 +4,7 @@
 
 - [26.RemoveDuplicatesfromSortedArray](./26.RemoveDuplicatesfromSortedArray.md)
 - [33.SearchinRotatedSortedArray](./33.SearchinRotatedSortedArray.md)
+- [40.CombinationSumII](./40.CombinationSumII.md)
 - [56.MergeIntervals](./56.MergeIntervals.md)
 - [88.MergeSortedArray](./88.MergeSortedArray.md)
 - [169.MajorityElement](./169.MajorityElement.md)
@@ -38,6 +39,8 @@
 - [94.BinaryTreeInorderTraversal](./94.BinaryTreeInorderTraversal.md)
 - [100.SameTree](./100.SameTree.md)
 - [102.BinaryTreeLevelOrderTraversal](./102.BinaryTreeLevelOrderTraversal.md)
+- [113.PathSumII](./113.PathSumII.md)
+
 
 ### Algorithm
 
@@ -66,6 +69,7 @@
 
 #### Backtracking
 
+- [40.CombinationSumII](./40.CombinationSumII.md)
 - [78.Subsets](./78.Subsets.md)
 
 #### Dynamic Programming
